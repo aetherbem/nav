@@ -1,6 +1,6 @@
 baseURL               = "https://aetherbem.github.io/nav/"
 languageCode          = "zh-CN"
-title                 = "WebStack-Hugo 网址导航"
+title                 = "WebStack-Hugo 网址导航d"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
